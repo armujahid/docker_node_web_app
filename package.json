@@ -1,0 +1,27 @@
+{
+  "name": "docker_node_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armujahid/docker_node_web_app.git"
+  },
+  "keywords": [
+    "docker",
+    "node.js",
+    "node"
+  ],
+  "author": "Abdul Rauf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/armujahid/docker_node_web_app/issues"
+  },
+  "homepage": "https://github.com/armujahid/docker_node_web_app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
